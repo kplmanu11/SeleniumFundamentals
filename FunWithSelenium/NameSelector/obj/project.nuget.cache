@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "68aBk9vjpqz4v8PvEpRSA4wUC1wUqkzPUAGbaVH9ZULkrHKx5qG6RrkAJ/aVJrXREWkJ5hPqTW3RHCkSQBfYxw==",
+  "success": true,
+  "projectFilePath": "D:\\FunWithSelenium\\NameSelector\\NameSelector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\selenium.support\\4.1.0\\selenium.support.4.1.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\selenium.webdriver.chromedriver\\96.0.4664.4500\\selenium.webdriver.chromedriver.96.0.4664.4500.nupkg.sha512"
+  ],
+  "logs": []
+}

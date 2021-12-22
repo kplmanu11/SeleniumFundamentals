@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "H9KAYIQr8S0okwzGhzzIUT6emGgloZeJcFYbIuvxD2F/raqlZ9soEn0sx1fnKOwqHkiR4Q7XxGciE6R3ZNqbHw==",
+  "success": true,
+  "projectFilePath": "D:\\FunWithSelenium\\CSSandXPathSelector\\CSSandXPathSelector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\selenium.support\\4.1.0\\selenium.support.4.1.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\selenium.webdriver.chromedriver\\96.0.4664.4500\\selenium.webdriver.chromedriver.96.0.4664.4500.nupkg.sha512"
+  ],
+  "logs": []
+}
